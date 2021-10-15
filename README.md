@@ -1,0 +1,2 @@
+# Comb
+Kombinasyon işlemi
